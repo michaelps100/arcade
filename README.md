@@ -26,5 +26,9 @@ Amplificador PAM8403: https://s.click.aliexpress.com/e/_oE8pD5p</br>
 Capa Volume: https://s.click.aliexpress.com/e/_oEuMjTz</br>
 Cabo P2 1m: https://s.click.aliexpress.com/e/_oplvEnp</br>
 
+Monitor portátil Mucai 11.6 HD: https://s.click.aliexpress.com/e/_ms8OTEO </br> 
+2x Adaptador USB-C U: https://s.click.aliexpress.com/e/_mLCSRF9 </br>
+1x Adaptador MINI-HDMI (Opção C8K-06): https://s.click.aliexpress.com/e/_mqI7lEx </br>
+
 Arquivo de imagens: <a href="https://github.com/michaelps100/arcade/blob/main/Arcade.zip">Imagens.zip</a></br>
 Arquivo Fusion 360: <a href="https://github.com/michaelps100/arcade/blob/main/ArcadeV3%20v19.f3d">ArcadeV3.f3d</a>
